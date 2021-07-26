@@ -38,7 +38,9 @@ O desenvolvimento foi realizado na plataforma LINUX, com o compilador GNU. Porta
  ```
 
 > **OUTPUT ./bin/loaderLib**
->> Handler DLL  = 0x1e5e840
->> getlibname()  = myLibraryDinamic
->> getlibversion()  = X.X.X
->> getlibdesc()  = Minha  biblioteca.
+```sh
+Handler DLL  = 0x1e5e840
+getlibname()  = myLibraryDinamic
+getlibversion()  = X.X.X
+getlibdesc()  = Minha  biblioteca.
+```
