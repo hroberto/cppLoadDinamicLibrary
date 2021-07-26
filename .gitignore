@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Temporary Folders
+.dep/
+.obj/
+bin/
+lib/
